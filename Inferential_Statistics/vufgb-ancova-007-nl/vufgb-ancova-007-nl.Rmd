@@ -24,8 +24,8 @@ Solution
 
 Answerlist
 ----------
-* Correct
 * Incorrect
+* Correct
 * Incorrect
 * Incorrect
 
@@ -33,7 +33,7 @@ Meta-information
 ================
 exname: vufgb-ancova-007-nl
 extype: schoice
-exsolution: 1000
+exsolution: 0100
 exsection: Inferential Statistics/Parametric Techniques/ANOVA/ANCOVA, Inferential Statistics/Regression
 exextra[Type]: Conceptual
 exextra[Program]: 
